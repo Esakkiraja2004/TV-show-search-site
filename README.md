@@ -3,7 +3,7 @@
 Description
 This site is designed to create a simple TV show search application using the TVMaze API. Users can submit a search query through a form, and the application will fetch relevant TV show data from the API. The retrieved show images are then displayed in a container. Additionally, a reset button is provided to clear the displayed content and reset the input field.
 
-Tools:
+Technologies:
 *HTML
 *CSS
 *Java-script
