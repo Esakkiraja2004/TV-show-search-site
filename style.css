@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://images.pexels.com/photos/129731/pexels-photo-129731.jpeg);
+    background-size: cover;
+}
+
+h1{
+    font-size:5rem !important;
+
+}
+
+/* .container{
+    display: flex;
+} */
+
+.dis{
+    box-shadow: 10px 10px 5px lightblue;
+    margin: 2rem;
+}
+.dis:hover{
+    transform: scale(1.05);
+    transition: transform 0.3s;
+}
